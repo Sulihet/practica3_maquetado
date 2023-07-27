@@ -1,3 +1,15 @@
+/* # practica3_maquetado
+
+Comentarios sobre la práctica: 
+
+/1/. Con un selector universarl, eliminé el margin y padding que coloca html por default a la págima y aunque sí me eliminó los espacios, me movió el tamaño de las cards; teminé comentando para no afectar :(. 
+/2/. Me di cuemta que puse los efectos al revés sólo hasta que terminé la prácica XD
+/3/. Intenté conectar el *transfor: escale* y el *transform: traslate* con un Hover para que los dos efectos se mostraran al mismo tiempo pero no lo logré; los dos se muestran por separado cuando pasas el puntero sobre la card. 
+/4/. Intenté centrar el texto con un text-aline:center al texto SUBSCRIBE pero no se aplicó.  */
+
+
+
+
 /* * {
     margin: 0;
     padding: 0;
